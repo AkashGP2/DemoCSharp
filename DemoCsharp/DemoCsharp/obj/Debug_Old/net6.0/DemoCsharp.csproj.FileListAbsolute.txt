@@ -1,0 +1,5 @@
+C:\Users\vakash\OneDrive - Deloitte (O365D)\Documents\Wood Duck 2.0 End 2 End Files\Demo C#\DemoCsharp\DemoCsharp\obj\Debug\net6.0\DemoCsharp.csproj.AssemblyReference.cache
+C:\Users\vakash\OneDrive - Deloitte (O365D)\Documents\Wood Duck 2.0 End 2 End Files\Demo C#\DemoCsharp\DemoCsharp\obj\Debug\net6.0\DemoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakash\OneDrive - Deloitte (O365D)\Documents\Wood Duck 2.0 End 2 End Files\Demo C#\DemoCsharp\DemoCsharp\obj\Debug\net6.0\DemoCsharp.AssemblyInfoInputs.cache
+C:\Users\vakash\OneDrive - Deloitte (O365D)\Documents\Wood Duck 2.0 End 2 End Files\Demo C#\DemoCsharp\DemoCsharp\obj\Debug\net6.0\DemoCsharp.AssemblyInfo.cs
+C:\Users\vakash\OneDrive - Deloitte (O365D)\Documents\Wood Duck 2.0 End 2 End Files\Demo C#\DemoCsharp\DemoCsharp\obj\Debug\net6.0\DemoCsharp.csproj.CoreCompileInputs.cache
